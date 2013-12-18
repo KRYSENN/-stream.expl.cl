@@ -1,1 +1,1 @@
-web: ./run
+web:stream.expl.cl./run
